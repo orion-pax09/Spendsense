@@ -1,88 +1,88 @@
-# SpendSense — Expense Data Analysis
+# SpendSense — Python Data Analysis Practice
 
-SpendSense is a beginner-friendly Python data analysis project that explores personal expense data using **Pandas, NumPy, and Matplotlib**.
+A hands-on Python practice exercise focused on learning and applying **Pandas, NumPy, and Matplotlib** using an expense dataset.
 
-The project focuses on understanding spending patterns, analyzing transactions, calculating statistics, and visualizing expenses through different charts.
+This repository documents my practice with data inspection, manipulation, numerical operations, and data visualization.
 
-## Features
+## Libraries Used
 
-- **Data Inspection:** Explore dataset structure, columns, missing values, and duplicate records.
-- **Data Filtering:** Filter transactions by amount, category, and payment method.
-- **Data Sorting:** Identify the most expensive and cheapest transactions.
-- **Category Analysis:** Calculate total and average spending for each category.
-- **Payment Analysis:** Count transactions by payment method.
-- **Monthly Analysis:** Calculate total expenses for each month.
-- **NumPy Statistics:** Calculate total, mean, median, minimum, maximum, and standard deviation.
-- **Data Visualization:** Create line charts, bar charts, and pie charts using Matplotlib.
+- **Pandas:** Loading, inspecting, filtering, sorting, and grouping data.
+- **NumPy:** Working with arrays, numerical operations, statistical calculations, and Boolean indexing.
+- **Matplotlib:** Creating line plots, bar charts, and pie charts.
 
-## Technologies Used
+## Topics Practiced
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
+### Pandas
+- Reading CSV files
+- Inspecting datasets (`head`, `tail`, `shape`, `info`)
+- Checking missing values and duplicates
+- Filtering rows using conditions
+- Sorting data
+- Grouping data with `groupby()`
+- Performing aggregations
+- Working with dates
+
+### NumPy
+- Converting Pandas Series into NumPy arrays
+- Understanding array properties (`shape`, `size`, `ndim`, `dtype`)
+- Indexing and slicing
+- Vectorized operations
+- Statistical calculations
+- Boolean indexing
+- Sorting and finding unique values
+
+### Matplotlib
+- Creating line plots
+- Creating bar charts
+- Creating pie charts
+- Adding titles, labels, markers, and grid lines
+
+## Dataset
+
+The practice dataset contains expense records with columns such as:
+
+- Date
+- Category
+- Description
+- Amount
+- Payment
 
 ## Project Structure
 
 ```text
 SpendSense/
-│
-├── speedsense.py
+├── spendsense.py
 ├── spendsense_expenses.csv
-├── requirements.txt
+├── Requirements.txt
 └── README.md
 ```
 
-## Installation and Usage
+## Setup and Run
 
-1. Clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/orion-pax09/spendsense.git
-```
-
-2. Navigate to the project directory:
-
-```bash
 cd spendsense
 ```
 
-3. Install the required libraries:
+Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install -r Requirements.txt
 ```
 
-4. Run the project:
+Run the script:
 
 ```bash
-python speedsense.py
+python spendsense.py
 ```
 
-## Visualizations
+## Purpose
 
-SpendSense currently includes:
+The purpose of this repository is to strengthen my Python data analysis fundamentals through hands-on practice.
 
-- Monthly Spending — Line Chart
-- Total Expenses by Category — Bar Chart
-- Expense Distribution by Category — Pie Chart
-
-## Learning Outcomes
-
-Through this project, I practiced:
-
-- Working with CSV datasets.
-- Data inspection and filtering using Pandas.
-- Grouping and aggregating data.
-- Numerical operations using NumPy.
-- Creating data visualizations using Matplotlib.
-
-## Future Improvements
-
-- Add more visualization types.
-- Build an interactive expense dashboard.
-- Generate deeper spending insights.
-- Explore additional data analysis techniques.
+This is a learning exercise, and I plan to apply these concepts to new datasets and more advanced data analysis tasks.
 
 ---
 
