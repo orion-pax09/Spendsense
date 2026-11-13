@@ -1,0 +1,201 @@
+Date,Category,Description,Amount,Payment
+2026-01-01,Transport,Fuel,3560,Card
+2026-01-01,Food,Hostel meal,500,Mobile Wallet
+2026-01-04,Food,Restaurant,460,Bank Transfer
+2026-01-07,Food,Coffee,790,Mobile Wallet
+2026-01-11,Entertainment,Subscription,1590,Mobile Wallet
+2026-01-17,Entertainment,Movie,1530,Card
+2026-01-18,Transport,Ride-hailing,1130,Bank Transfer
+2026-01-26,Food,Groceries,3110,Card
+2026-01-26,Shopping,Electronics accessory,4590,Bank Transfer
+2026-01-28,Food,Groceries,2710,Bank Transfer
+2026-01-29,Food,Coffee,370,Card
+2026-01-31,Food,Hostel meal,280,Cash
+2026-01-31,Health,Medicine,460,Cash
+2026-02-02,Food,Restaurant,1040,Card
+2026-02-02,Food,Restaurant,1210,Cash
+2026-02-05,Food,Hostel meal,790,Card
+2026-02-05,Food,Restaurant,910,Mobile Wallet
+2026-02-05,Transport,Ride-hailing,1750,Cash
+2026-02-06,Shopping,Electronics accessory,3200,Cash
+2026-02-07,Food,Hostel meal,460,Mobile Wallet
+2026-02-08,Bills,Mobile package,860,Mobile Wallet
+2026-02-10,Education,Books,1510,Mobile Wallet
+2026-02-10,Shopping,Personal items,2170,Mobile Wallet
+2026-02-11,Shopping,Clothes,2920,Card
+2026-02-12,Education,Online course,2750,Cash
+2026-02-14,Transport,Bus,120,Card
+2026-02-17,Bills,Mobile package,1060,Mobile Wallet
+2026-02-19,Shopping,Clothes,5490,Bank Transfer
+2026-02-20,Shopping,Electronics accessory,4760,Cash
+2026-02-20,Health,Medicine,260,Bank Transfer
+2026-02-22,Bills,Internet,1050,Cash
+2026-02-22,Food,Hostel meal,720,Card
+2026-02-23,Transport,Ride-hailing,1570,Cash
+2026-02-24,Shopping,Clothes,4830,Cash
+2026-02-27,Food,Coffee,370,Cash
+2026-02-28,Transport,Bus,170,Cash
+2026-02-28,Health,Medicine,1410,Card
+2026-02-28,Bills,Internet,3020,Card
+2026-03-01,Shopping,Electronics accessory,2170,Card
+2026-03-02,Transport,Bus,190,Card
+2026-03-03,Health,Fitness,2370,Card
+2026-03-04,Food,Hostel meal,200,Bank Transfer
+2026-03-07,Entertainment,Subscription,590,Bank Transfer
+2026-03-08,Food,Coffee,630,Cash
+2026-03-10,Food,Groceries,1560,Mobile Wallet
+2026-03-12,Bills,Mobile package,480,Card
+2026-03-15,Bills,Internet,1520,Cash
+2026-03-18,Bills,Utilities,2410,Mobile Wallet
+2026-03-18,Food,Hostel meal,460,Card
+2026-03-19,Food,Groceries,1100,Card
+2026-03-19,Transport,Fuel,2880,Cash
+2026-03-21,Food,Hostel meal,750,Cash
+2026-03-22,Food,Groceries,1460,Card
+2026-03-23,Health,Personal care,700,Cash
+2026-03-23,Health,Medicine,1620,Card
+2026-03-25,Entertainment,Movie,1750,Cash
+2026-03-28,Food,Hostel meal,590,Cash
+2026-03-31,Transport,Fuel,3390,Cash
+2026-04-02,Bills,Internet,2370,Mobile Wallet
+2026-04-02,Food,Coffee,380,Bank Transfer
+2026-04-06,Food,Groceries,770,Cash
+2026-04-09,Entertainment,Movie,700,Card
+2026-04-11,Shopping,Electronics accessory,2080,Cash
+2026-04-12,Transport,Fuel,1120,Bank Transfer
+2026-04-12,Food,Coffee,900,Mobile Wallet
+2026-04-15,Shopping,Clothes,2120,Cash
+2026-04-15,Education,Books,1770,Cash
+2026-04-16,Transport,Bus,260,Card
+2026-04-19,Transport,Ride-hailing,770,Cash
+2026-04-19,Food,Coffee,640,Card
+2026-04-23,Shopping,Electronics accessory,3550,Mobile Wallet
+2026-04-25,Bills,Internet,2560,Mobile Wallet
+2026-04-26,Transport,Fuel,3520,Mobile Wallet
+2026-04-26,Shopping,Electronics accessory,3970,Card
+2026-04-26,Food,Coffee,750,Cash
+2026-04-27,Transport,Ride-hailing,560,Bank Transfer
+2026-04-27,Shopping,Personal items,1920,Card
+2026-04-28,Health,Fitness,1640,Card
+2026-05-02,Food,Groceries,1170,Card
+2026-05-04,Food,Hostel meal,490,Card
+2026-05-04,Transport,Bus,270,Mobile Wallet
+2026-05-05,Shopping,Personal items,2000,Mobile Wallet
+2026-05-05,Food,Hostel meal,370,Card
+2026-05-05,Health,Fitness,1300,Cash
+2026-05-07,Shopping,Clothes,1760,Cash
+2026-05-08,Health,Medicine,500,Card
+2026-05-08,Transport,Ride-hailing,630,Mobile Wallet
+2026-05-09,Shopping,Electronics accessory,3520,Bank Transfer
+2026-05-10,Transport,Ride-hailing,720,Mobile Wallet
+2026-05-14,Transport,Bus,140,Cash
+2026-05-16,Transport,Fuel,2920,Cash
+2026-05-16,Health,Personal care,1490,Bank Transfer
+2026-05-17,Transport,Fuel,4250,Cash
+2026-05-19,Entertainment,Subscription,1220,Mobile Wallet
+2026-05-20,Transport,Ride-hailing,1000,Card
+2026-05-20,Entertainment,Movie,790,Cash
+2026-05-21,Shopping,Clothes,2000,Cash
+2026-05-23,Food,Restaurant,1320,Mobile Wallet
+2026-05-23,Transport,Ride-hailing,1400,Mobile Wallet
+2026-05-25,Food,Coffee,680,Card
+2026-05-25,Entertainment,Subscription,1770,Mobile Wallet
+2026-05-27,Transport,Ride-hailing,880,Mobile Wallet
+2026-05-27,Transport,Fuel,1780,Cash
+2026-05-28,Entertainment,Subscription,960,Card
+2026-05-30,Health,Fitness,1420,Cash
+2026-06-03,Food,Restaurant,1310,Mobile Wallet
+2026-06-03,Transport,Fuel,3480,Card
+2026-06-04,Shopping,Clothes,5210,Bank Transfer
+2026-06-05,Education,Online course,1500,Card
+2026-06-08,Bills,Utilities,2830,Cash
+2026-06-10,Shopping,Personal items,1730,Cash
+2026-06-11,Food,Restaurant,560,Card
+2026-06-12,Education,Stationery,1150,Mobile Wallet
+2026-06-14,Shopping,Electronics accessory,2540,Card
+2026-06-17,Food,Coffee,710,Cash
+2026-06-19,Education,Stationery,1060,Mobile Wallet
+2026-06-19,Food,Groceries,780,Cash
+2026-06-21,Shopping,Electronics accessory,830,Mobile Wallet
+2026-06-24,Transport,Ride-hailing,490,Cash
+2026-06-26,Education,Stationery,570,Bank Transfer
+2026-06-26,Food,Hostel meal,630,Cash
+2026-06-27,Food,Groceries,2630,Bank Transfer
+2026-06-30,Transport,Bus,120,Card
+2026-07-03,Bills,Mobile package,550,Cash
+2026-07-05,Education,Online course,3580,Mobile Wallet
+2026-07-06,Transport,Ride-hailing,460,Card
+2026-07-08,Food,Coffee,280,Bank Transfer
+2026-07-09,Bills,Mobile package,640,Card
+2026-07-11,Entertainment,Games,1210,Card
+2026-07-13,Transport,Fuel,2710,Cash
+2026-07-14,Entertainment,Subscription,800,Card
+2026-07-14,Health,Personal care,1730,Bank Transfer
+2026-07-16,Shopping,Electronics accessory,2670,Cash
+2026-07-22,Entertainment,Movie,780,Card
+2026-07-23,Transport,Fuel,3530,Mobile Wallet
+2026-07-25,Entertainment,Games,2070,Card
+2026-07-27,Food,Coffee,690,Mobile Wallet
+2026-07-31,Food,Restaurant,350,Bank Transfer
+2026-08-05,Food,Restaurant,1050,Cash
+2026-08-07,Entertainment,Subscription,1140,Cash
+2026-08-09,Food,Groceries,1920,Card
+2026-08-09,Shopping,Clothes,1380,Cash
+2026-08-10,Food,Groceries,3440,Bank Transfer
+2026-08-12,Entertainment,Games,2100,Card
+2026-08-15,Education,Stationery,1110,Cash
+2026-08-16,Food,Groceries,1170,Cash
+2026-08-18,Education,Online course,2560,Mobile Wallet
+2026-08-19,Food,Hostel meal,610,Card
+2026-08-21,Transport,Fuel,1940,Cash
+2026-08-22,Bills,Mobile package,460,Card
+2026-08-22,Transport,Fuel,860,Cash
+2026-08-23,Bills,Mobile package,1050,Card
+2026-08-24,Food,Coffee,340,Cash
+2026-08-24,Food,Coffee,680,Card
+2026-08-25,Entertainment,Movie,930,Mobile Wallet
+2026-08-28,Food,Hostel meal,510,Mobile Wallet
+2026-08-29,Food,Groceries,580,Card
+2026-08-29,Food,Groceries,1390,Mobile Wallet
+2026-08-31,Food,Restaurant,1770,Card
+2026-08-31,Transport,Ride-hailing,1330,Mobile Wallet
+2026-09-01,Transport,Bus,160,Mobile Wallet
+2026-09-07,Bills,Utilities,1040,Cash
+2026-09-07,Shopping,Clothes,1860,Card
+2026-09-08,Food,Hostel meal,520,Cash
+2026-09-09,Education,Stationery,590,Cash
+2026-09-09,Shopping,Electronics accessory,4860,Card
+2026-09-14,Food,Coffee,720,Card
+2026-09-15,Food,Hostel meal,750,Card
+2026-09-16,Shopping,Electronics accessory,2360,Mobile Wallet
+2026-09-17,Food,Restaurant,880,Mobile Wallet
+2026-09-17,Food,Coffee,610,Cash
+2026-09-18,Transport,Bus,170,Mobile Wallet
+2026-09-23,Health,Personal care,940,Card
+2026-09-23,Transport,Bus,140,Mobile Wallet
+2026-09-24,Health,Fitness,1370,Cash
+2026-09-28,Education,Books,320,Mobile Wallet
+2026-09-29,Food,Coffee,530,Cash
+2026-09-29,Entertainment,Subscription,1680,Card
+2026-10-01,Bills,Utilities,590,Card
+2026-10-02,Shopping,Personal items,960,Cash
+2026-10-03,Bills,Internet,2820,Card
+2026-10-04,Shopping,Clothes,4700,Bank Transfer
+2026-10-04,Shopping,Clothes,1400,Mobile Wallet
+2026-10-05,Bills,Internet,900,Cash
+2026-10-05,Bills,Utilities,710,Cash
+2026-10-07,Health,Fitness,650,Card
+2026-10-09,Food,Hostel meal,280,Card
+2026-10-12,Food,Coffee,160,Mobile Wallet
+2026-10-15,Food,Groceries,1300,Bank Transfer
+2026-10-17,Food,Hostel meal,600,Cash
+2026-10-20,Food,Restaurant,1140,Mobile Wallet
+2026-10-20,Food,Hostel meal,400,Cash
+2026-10-22,Food,Restaurant,1590,Cash
+2026-10-22,Food,Coffee,660,Mobile Wallet
+2026-10-23,Shopping,Personal items,640,Cash
+2026-10-23,Entertainment,Games,290,Mobile Wallet
+2026-10-27,Education,Books,1240,Card
+2026-10-29,Bills,Internet,3470,Cash
+2026-10-29,Shopping,Personal items,1720,Mobile Wallet
+2026-10-30,Food,Groceries,2190,Cash
